@@ -44,7 +44,6 @@ To become a highly skilled **Full Stack Developer**, build impactful real-world 
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/varadraj-jagtap)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon\&logoColor=white)](https://mastodon.social/@Varad%20Jagtap)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:jagtapvarad16@gmail.com)
 
 ---
