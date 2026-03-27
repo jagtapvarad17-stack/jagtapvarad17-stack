@@ -64,4 +64,9 @@ To become a highly skilled **Full Stack Developer**, build impactful real-world 
 
 [![](https://visitcount.itsvg.in/api?id=jagtapvarad17-stack\&icon=0\&color=0)](https://visitcount.itsvg.in)
 
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/jagtapvarad17-stack/jagtapvarad17-stack/blob/output/github-contribution-grid-snake.svg)
+
 <!-- Proudly created with GPRM -->
