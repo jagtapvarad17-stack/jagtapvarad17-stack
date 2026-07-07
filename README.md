@@ -109,7 +109,7 @@ Detects malicious Android apps using static analysis techniques and security con
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jagtapvarad17-stack&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-trophies.vercel.app/?username=jagtapvarad17-stack&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ### 📈 GitHub Activity Graph
