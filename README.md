@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech IT student at **Walchand College of Engineering, Sangli** — CGPA **9.64/10**
+- 🎓 B.Tech IT student at **Walchand College of Engineering, Sangli** — CGPA **9.69/10**
 - 💻 Passionate **Full Stack Developer** experienced in building scalable **web & mobile applications** with the **MERN stack** and **Android development**
 - 🧠 Strong grasp of **software engineering principles** — API design, database systems, and full-stack architecture
 - 🌱 Continuously learning new technologies to sharpen my development skills
