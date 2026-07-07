@@ -100,12 +100,12 @@ Detects malicious Android apps using static analysis techniques and security con
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jagtapvarad17-stack&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagtapvarad17-stack&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=jagtapvarad17-stack&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jagtapvarad17-stack&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jagtapvarad17-stack&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=jagtapvarad17-stack&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
