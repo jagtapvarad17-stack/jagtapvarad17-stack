@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=jagtapvarad17-stack&icon=0&color=7" />
+  <img src="https://komarev.com/ghpvc/?username=jagtapvarad17-stack&label=Profile%20Views&color=7aa2f7&style=flat" />
 </p>
 
 ---
@@ -100,8 +100,8 @@ Detects malicious Android apps using static analysis techniques and security con
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jagtapvarad17-stack&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagtapvarad17-stack&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jagtapvarad17-stack&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagtapvarad17-stack&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" />
 </p>
 
 <p align="center">
