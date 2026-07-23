@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | B.Tech IT @ Walchand College of Engineering, Sangli</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN+%2B+Android);Building+scalable+web+%26+mobile+apps;CGPA%3A+9.69+%2F+10;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN+%2B+Android);Building+scalable+web+%26+mobile+apps;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,50 +16,19 @@
   <img src="https://komarev.com/ghpvc/?username=jagtapvarad17-stack&label=Profile%20Views&color=7aa2f7&style=flat" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samadpls/Programing-Gifs/main/static/gifs/new.gif" width="450" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech IT student at **Walchand College of Engineering, Sangli** — CGPA **9.69/10**
-- 💻 Passionate **Full Stack Developer** experienced in building scalable **web & mobile applications** with the **MERN stack** and **Android development**
-- 🧠 Strong grasp of **software engineering principles** — API design, database systems, and full-stack architecture
-- 🌱 Continuously learning new technologies to sharpen my development skills
-- ⚡ I enjoy solving real-world problems through clean, efficient, user-friendly software
+Full stack developer who loves turning ideas into clean, working software — MERN on the web, Kotlin/Java on Android.
 
----
-
-### 🚀 Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**🪑 AR-Based Furniture Shop Management System**
-Full-stack e-commerce platform with **Augmented Reality visualization** to preview furniture in real-world space.
-
-</td>
-<td width="50%">
-
-**📱 TeachConnect** <sub>*(In Progress)*</sub>
-Unified digital learning Android app with **live classes (Jitsi SDK)**, chat, attendance, and study material sharing.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🔐 Full Stack User Authentication System**
-Secure authentication system built with **JWT, REST APIs**, and database integration.
-
-</td>
-<td width="50%">
-
-**🛡 APK Malware Detection System**
-Detects malicious Android apps using static analysis techniques and security concepts.
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,androidstudio,git" />
+</p>
 
 ---
 
@@ -116,6 +85,12 @@ Detects malicious Android apps using static analysis techniques and security con
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagtapvarad17-stack&theme=tokyo-night&hide_border=true" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jagtapvarad17-stack/jagtapvarad17-stack/output/github-contribution-grid-snake-dark.svg" alt="snake game" />
 </p>
 
 ---
