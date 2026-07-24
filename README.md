@@ -44,7 +44,7 @@ Full stack developer who loves turning ideas into clean, working software — ME
 
 **Web Development**
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,django,flask,tailwind,vite,svelte" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,django,flask,tailwind,vite" />
 </p>
 
 **Databases**
@@ -56,7 +56,7 @@ Full stack developer who loves turning ideas into clean, working software — ME
 
 **Tools & Platforms**
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,npm,postman,vercel,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,npm,postman,vercel" />
 </p>
 
 ---
