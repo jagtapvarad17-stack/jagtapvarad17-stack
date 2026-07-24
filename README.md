@@ -49,14 +49,14 @@ Full stack developer who loves turning ideas into clean, working software — ME
 
 **Databases**
 <p>
-<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,sqlite,supabase" />
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite,supabase" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48"/>
 </p>
 
 
 **Tools & Platforms**
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,npm,postman,vercel,appwrite,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,npm,postman,vercel,figma" />
 </p>
 
 ---
