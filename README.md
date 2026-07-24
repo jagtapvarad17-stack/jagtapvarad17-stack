@@ -53,14 +53,6 @@ Full stack developer who loves turning ideas into clean, working software — ME
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48"/>
 </p>
 
-**AI / Machine Learning**
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,opencv" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="48"/>
-</p>
 
 **Tools & Platforms**
 <p>
