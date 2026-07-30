@@ -39,7 +39,7 @@ Full stack developer who loves turning ideas into clean, working software — ME
 
 **Programming Languages**
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js,ts" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js" />
 </p>
 
 **Web Development**
