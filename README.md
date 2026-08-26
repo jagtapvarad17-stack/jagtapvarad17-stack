@@ -78,9 +78,9 @@ Full stack developer who loves turning ideas into clean, working software — ME
 
 ### 📈 GitHub Activity Graph
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagtapvarad17-stack&theme=tokyo-night&hide_border=true" />
-</p>
+</p>-->
 
 ### 🐍 Contribution Snake
 
