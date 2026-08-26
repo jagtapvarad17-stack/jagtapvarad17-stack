@@ -75,7 +75,7 @@ Full stack developer who loves turning ideas into clean, working software — ME
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=jagtapvarad17-stack&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
+<!--
 ### 📈 GitHub Activity Graph
 
 <!--<p align="center">
